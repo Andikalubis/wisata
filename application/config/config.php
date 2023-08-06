@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 date_default_timezone_set("Asia/Jakarta");
 
 
-$config['base_url'] = 'http://localhost/skripsi/';
+$config['base_url'] = 'http://localhost/wisata/';
 
 
 $config['index_page'] = '';
